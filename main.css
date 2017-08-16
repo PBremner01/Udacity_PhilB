@@ -1,0 +1,103 @@
+
+
+/*  Portfolio Project Custom Styling   */
+   #divmain {
+        width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+   .parent {
+    margin: auto;
+    }
+
+    .left_col {
+        width: 12%;
+    }
+
+    .head_row {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 20pt;
+        border-bottom: solid;
+        color: grey;
+        height: 20%;
+        width: 100%;
+        margin-bottom: 10px;
+        float: left;
+    }
+
+    .left_header {
+        display: inline-block;
+        font-size: 40pt;
+        font-weight: bold;
+        float: left;
+    }
+
+    .right_header {
+        color: grey;
+        font-weight: 100;
+        font-size: 22pt;
+        text-align: left;
+        float: right;
+    }
+
+    .right_header_sub {
+        display: inline-block;
+        font-weight: 300;
+        font-size: 12pt;
+        float: right;
+        text-align: right;
+    }
+
+    .main_pic {
+        box-sizing: border-box;
+        width: auto;
+        height: auto
+    }
+
+    .featured_title {
+        color: grey;
+        font-weight: 100;
+        font-size: 20pt;
+        text-align: left;
+    }
+
+    .featured_work {
+        display: inline-block;
+        justify-content:space-between;
+        float: left;
+    }
+
+.floating-box {
+    position: relative;
+    display: inline-block;  */
+    text-align: center;
+    float: left;
+}
+
+    .color_panel {
+        margin-left: 10px;
+        height: 50px;
+        width: 50px;
+    }
+
+    #color_panel1 {
+        background-color: #02b3e4;
+    }
+
+    #color_panel2 {
+        background-color: #2d3c49;
+    }
+
+    #color_panel3 {
+        background-color: #7d97ad;
+    } 
+    .block_label {
+        font-size: 14pt;
+        color: grey;
+        text-align: left;
+    }
+
+    .section_css {
+      margin: auto 0;
+    }
